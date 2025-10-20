@@ -11,3 +11,5 @@ https://kazimmt.github.io
 - https://github.com/GoodyOG/Iceraven-OLED
 - https://github.com/ArtikusHG/Ironfox-OLEDDark
 - https://github.com/MartinatorTime/auto-lspatch
+- https://github.com/shifoc/WhatsAppPatcher
+- https://github.com/Parsa307/split_optimizer_fish
